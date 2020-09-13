@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius:100px;" width="128" height="128" src="https://cdn.discordapp.com/avatars/602588112174055436/047c4c42e532b01eea920ef94001d426.png">
+    <img width="128" height="128" src="https://raw.githubusercontent.com/CosmicIceDev/CosmicIceDev/master/cosmicice-snoovatar.png">
 </p>
 <h1 align="center">CosmicIceDev</h1>
 
