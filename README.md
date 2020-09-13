@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://avatars0.githubusercontent.com/u/67003720?s=400&u=c2795be32ea652938eff40abfe71705b1de6773c">
+    <img width="128" height="128" src="https://avatars0.githubusercontent.com/u/67003720?s=400&u=c2795be32ea652938eff40abfe71705b1de6773c">
 </p>
 <h1 align="center">CosmicIceDev</h1>
 
