@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">CosmicIceDev</h1>
 
-<center><img src="https://raw.githubusercontent.com/CosmicIceDev/CosmicIceDev/master/readme.png"></center>
+<center><img src="https://raw.githubusercontent.com/CosmicIceDev/CosmicIceDev/master/readmejscode.png"></center>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CosmicIceDev&count_private=true&show_icons=true&include_all_commits=true)
 
