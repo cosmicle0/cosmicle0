@@ -8,9 +8,6 @@
 <a href="https://github.com/CosmicIceDev/CosmicIceDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CosmicIceDev&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/CosmicIceDev/CosmicIceDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicIceDev&layout=compact&theme=tokyonight" />
-</a>
 
 ### Recent Projects
 
