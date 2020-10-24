@@ -5,7 +5,20 @@
 
 <center><img src="https://raw.githubusercontent.com/CosmicIceDev/CosmicIceDev/master/readmejscode.png"></center>
 
-![Github Stats A](https://github-readme-stats.vercel.app/api?username=CosmicIceDev&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-<br>
 ![Github Stats B](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicIceDev&layout=compact&theme=tokyonight)
 
+<a href="https://github.com/CosmicIceDev/CosmicIceDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CosmicIceDev&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/CosmicIceDev/CosmicIceDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicIceDev&layout=compact&theme=tokyonight" />
+</a>
+
+### Recent Projects
+
+<a href="https://github.com/512mb-xyz/512mb-Discord-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=512mb-xyz&repo=512mb-Discord-Bot" />
+</a>
+<a href="https://github.com/CosmicIceDev/remnote">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CosmicIceDev&repo=remnote" />
+</a>
