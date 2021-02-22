@@ -1,6 +1,6 @@
 # cosmicice
 
-<img align="right" src="https://cdn.bongo.ninja/other/public/images/cosmicice-octocat.png" width="250" height="250">
+
 
 Languages: [Javascript](https://www.javascript.com/), [Python](https://www.python.org/), [Go](https://golang.org/), [HTML](https://whatwg.org/), [CSS](https://www.w3.org/)
 <br>
