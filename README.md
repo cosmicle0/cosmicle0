@@ -12,11 +12,17 @@ Social Media: [Twitter](https://twitter.com/catcosmicice), [Discord](https://dis
 
 <table>
   <tr>
-    <td>![https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/metrics.svg]</td>  
-    <td>![https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/languages.svg]</td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/metrics.svg" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/languages.svg" />
+    </td>
   </tr>
-  <tr>
-    <td colspan="2">![https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/habits.svg]</td>  
+  <tr colspan="2">
+    <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/habits.svg" />
+      </td>  
   </tr>
 </table>
 
