@@ -1,7 +1,5 @@
 # cosmicice
 
-
-
 Languages: [Javascript](https://www.javascript.com/), [Python](https://www.python.org/), [Go](https://golang.org/), [HTML](https://whatwg.org/), [CSS](https://www.w3.org/)
 <br>
 Tools: [Visual Studio Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), [GoLand](https://www.jetbrains.com/go/)
@@ -9,6 +7,19 @@ Tools: [Visual Studio Code](https://code.visualstudio.com/), [PyCharm](https://w
 Social Media: [Twitter](https://twitter.com/catcosmicice), [Discord](https://discord.com/users/602588112174055436)
 <br>
 <hr>
+
+## Metrics:
+
+<table>
+  <tr>
+    <td>![https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/metrics.svg]</td>  
+    <td>![https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/languages.svg]</td>
+  </tr>
+  <tr>
+    <td colspan="2">![https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/habits.svg]</td>  
+  </tr>
+</table>
+
 
 ### Mood:
 
