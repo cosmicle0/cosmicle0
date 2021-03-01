@@ -48,3 +48,13 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+      - name: Pagespeed
+        uses: lowlighter/metrics@latest
+        with:
+          filename: pagespeed.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_pagespeed: yes
+          # plugin_pagespeed_token: ${{ later }}
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: .user.website
