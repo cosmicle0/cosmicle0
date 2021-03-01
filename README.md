@@ -6,7 +6,6 @@ Tools: [Visual Studio Code](https://code.visualstudio.com/), [PyCharm](https://w
 <br>
 Social Media: [Twitter](https://twitter.com/catcosmicice), [Discord](https://discord.com/users/602588112174055436)
 <br>
-<hr>
 
 ## Metrics:
 
