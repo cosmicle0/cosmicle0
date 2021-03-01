@@ -14,15 +14,20 @@ Social Media: [Twitter](https://twitter.com/catcosmicice), [Discord](https://dis
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/metrics.svg" />
+      <br>
+      <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/languages.svg" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/languages.svg" />
+      <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/isocalendar.svg" />
     </td>
   </tr>
   <tr colspan="2">
     <td align="center" style="padding=0;width=50%;">
-        <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/habits.svg" />
-      </td>  
+      <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/habits.svg" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/catcosmicice/catcosmicice/master/pagespeed.svg" />
+    </td>
   </tr>
 </table>
 
