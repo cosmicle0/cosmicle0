@@ -32,7 +32,6 @@ jobs:
         with:
           filename: habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -41,3 +40,11 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           config_timezone: Asia/Dubai
+      - name: Isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
