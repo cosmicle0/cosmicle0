@@ -1,6 +1,6 @@
 # cosmicice
 
-Languages: [Javascript](https://www.javascript.com/), [Python](https://www.python.org/), [Go](https://golang.org/), [HTML](https://whatwg.org/), [CSS](https://www.w3.org/)
+Languages: [TypeScript](https://typescriptlang.org), [JavaScript](https://www.javascript.com/), [Python](https://www.python.org/), [Go](https://golang.org/), [HTML](https://whatwg.org/), [CSS](https://www.w3.org/)
 <br>
 Tools: [Visual Studio Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), [GoLand](https://www.jetbrains.com/go/)
 <br>
