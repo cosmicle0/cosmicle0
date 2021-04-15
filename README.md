@@ -6,6 +6,13 @@ Tools: [Visual Studio Code](https://code.visualstudio.com/), [PyCharm](https://w
 <br>
 Social Media: [Twitter](https://twitter.com/catcosmicice), [Discord](https://discord.com/users/602588112174055436)
 <br>
+<br>
+<a href='https://ko-fi.com/L4L44B0VZ' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee' />
+</a>&nbsp;
+<a href='https://paypal.me/catcosmicice' target='_blank'>
+  <img height='40' style='border:0px;height:40px;' src='https://cdn.bongo.ninja/assets/img/paypal.png' border='0' alt='PayPal Me' />
+</a>
 
 ## Metrics:
 
