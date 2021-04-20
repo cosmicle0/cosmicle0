@@ -42,5 +42,5 @@ Consider Donating:
 <a href='https://paypal.me/catcosmicice' target='_blank'>
   <img height='40' style='border:0px;height:40px;' src='https://cdn.bongo.ninja/assets/img/paypal.png' border='0' alt='PayPal Me' />
 </a>
-
-*All donations will be greatly appreciated, thank you so much!*
+&nbsp;
+<i>All donations will be greatly appreciated, thank you so much!</i>
