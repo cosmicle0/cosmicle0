@@ -1,6 +1,6 @@
 # [cosmicice](https://cosmicice.cat)
 
-Full Stack Web Developer, Software Developer and Linux SysAdmin.
+Full Stack Web Developer, Software Developer and Linux Sysadmin.
 
 How?
 
