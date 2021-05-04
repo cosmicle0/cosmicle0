@@ -1,10 +1,10 @@
 # [cosmicice](https://cosmicice.cat)
 
-Full Stack Web Developer, Software Developer and Linux Sysadmin.
+Full Stack Web Developer, Software Developer and GNU/Linux Sysadmin.
 
 How?
 
-* Windows 10 (Moving to Linux Soon&trade;)
+* Windows 10 (Moving to GNU/Linux Soon&trade;)
 * Node.js, Python, Go
 * Visual Studio Code, PyCharm
 
