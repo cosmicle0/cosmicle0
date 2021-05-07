@@ -10,7 +10,7 @@ How?
 
 Working on:
 
-* [Discord.dn](https://discorddn/discord.dn)
+* [Discord.dn](https://github.com/discorddn/discord.dn)
 * [oreo](https://github.com/catcosmicice/oreo)
 * [Image Generation API](https://github.com/catcosmicice/api.bongo.ninja)
 * [cosmicice.cat](https://github.com/catcosmicice/cosmicice.cat)
